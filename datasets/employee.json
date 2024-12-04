@@ -1,0 +1,9 @@
+[
+
+    {"id":1000,"name":"jhon","salary":45000,"role":"admin"},
+    {"id":1001,"name":"smith","salary":55000,"role":"admin"},
+    {"id":1002,"name":"tom","salary":25000,"role":"staff"},
+    {"id":1003,"name":"wilson","salary":35000,"role":"staff"}
+
+
+]

@@ -1,0 +1,20 @@
+
+print("meassage") => print a message in console
+
+type(object) => return datatype of an object
+
+input("message") =>read value from console return string value
+
+round(object,precision)=>
+
+len()=>find the length of a string,if it was in int we must convert into string.
+
+>>number=1234
+>>eg=>count=len(str(number))
+
+
+range()=>range(start,stop,range) return sequence of numbers from start end -1.
+
+min(num1,num2)=>return smallest number
+
+max(num1,num2)=>return largest(maximum) number

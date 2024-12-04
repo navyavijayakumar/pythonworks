@@ -1,0 +1,10 @@
+1.print all countries
+3.countries under asian region
+4.highest population
+2.capital of Afghanistan
+5.borders of Northern Africa
+6.currencies
+7.lowest population
+8.numeric code of argentina
+9.languages -afghanisthan
+10.independent countries

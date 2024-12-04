@@ -1,0 +1,4 @@
+1000,navya,django
+1001,ajay,django
+1002,Praveen,django
+1003,Rahul,django

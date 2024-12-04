@@ -1,0 +1,296 @@
+[
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 10.99,
+      "genre": "Classic",
+      "pages": 180
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "price": 8.99,
+      "genre": "Dystopian",
+      "pages": 328
+    },
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 7.99,
+      "genre": "Classic",
+      "pages": 281
+    },
+    {
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "price": 6.99,
+      "genre": "Classic",
+      "pages": 214
+    },
+    {
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "price": 14.99,
+      "genre": "Non-fiction",
+      "pages": 443
+    },
+    {
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 9.99,
+      "genre": "Fiction",
+      "pages": 197
+    },
+    {
+      "title": "Becoming",
+      "author": "Michelle Obama",
+      "price": 16.99,
+      "genre": "Biography",
+      "pages": 426
+    },
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "price": 12.99,
+      "genre": "Fantasy",
+      "pages": 310
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "price": 11.99,
+      "genre": "Dystopian",
+      "pages": 158
+    },
+    {
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 9.49,
+      "genre": "Classic",
+      "pages": 279
+    },
+    {
+      "title": "The Diary of a Young Girl",
+      "author": "Anne Frank",
+      "price": 10.99,
+      "genre": "Biography",
+      "pages": 283
+    },
+    {
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "author": "J.R.R. Tolkien",
+      "price": 15.99,
+      "genre": "Fantasy",
+      "pages": 423
+    },
+    {
+      "title": "The Book Thief",
+      "author": "Markus Zusak",
+      "price": 12.99,
+      "genre": "Historical Fiction",
+      "pages": 552
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "price": 13.99,
+      "genre": "Post-apocalyptic",
+      "pages": 287
+    },
+    {
+      "title": "The Fault in Our Stars",
+      "author": "John Green",
+      "price": 10.99,
+      "genre": "Young Adult",
+      "pages": 313
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "price": 11.99,
+      "genre": "Dystopian",
+      "pages": 374
+    },
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "price": 8.99,
+      "genre": "Fantasy",
+      "pages": 309
+    },
+    {
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "price": 6.99,
+      "genre": "Classic",
+      "pages": 254
+    },
+    {
+      "title": "The Catch-22",
+      "author": "Joseph Heller",
+      "price": 9.99,
+      "genre": "Satire",
+      "pages": 453
+    },
+    {
+      "title": "Brave New World",
+      "author": "Aldous Huxley",
+      "price": 10.49,
+      "genre": "Dystopian",
+      "pages": 311
+    },
+    {
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "price": 12.99,
+      "genre": "Thriller",
+      "pages": 432
+    },
+    {
+      "title": "The Kite Runner",
+      "author": "Khaled Hosseini",
+      "price": 10.99,
+      "genre": "Fiction",
+      "pages": 371
+    },
+    {
+      "title": "The Great Alone",
+      "author": "Kristin Hannah",
+      "price": 15.99,
+      "genre": "Historical Fiction",
+      "pages": 440
+    },
+    {
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "price": 14.99,
+      "genre": "Fantasy",
+      "pages": 400
+    },
+    {
+      "title": "Anxious People",
+      "author": "Fredrik Backman",
+      "price": 13.99,
+      "genre": "Fiction",
+      "pages": 300
+    },
+    {
+      "title": "Educated",
+      "author": "Tara Westover",
+      "price": 16.99,
+      "genre": "Biography",
+      "pages": 334
+    },
+    {
+      "title": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 12.49,
+      "genre": "Psychological Thriller",
+      "pages": 336
+    },
+    {
+      "title": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "price": 11.99,
+      "genre": "Fantasy",
+      "pages": 387
+    },
+    {
+      "title": "The Vanishing Half",
+      "author": "Brit Bennett",
+      "price": 15.99,
+      "genre": "Fiction",
+      "pages": 352
+    },
+    {
+      "title": "Daisy Jones & The Six",
+      "author": "Taylor Jenkins Reid",
+      "price": 14.99,
+      "genre": "Historical Fiction",
+      "pages": 368
+    },
+    {
+      "title": "Normal People",
+      "author": "Sally Rooney",
+      "price": 11.49,
+      "genre": "Fiction",
+      "pages": 266
+    },
+    {
+      "title": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "price": 13.99,
+      "genre": "Fiction",
+      "pages": 368
+    },
+    {
+      "title": "Little Fires Everywhere",
+      "author": "Celeste Ng",
+      "price": 12.99,
+      "genre": "Fiction",
+      "pages": 340
+    },
+    {
+      "title": "The House in the Cerulean Sea",
+      "author": "TJ Klune",
+      "price": 17.99,
+      "genre": "Fantasy",
+      "pages": 400
+    },
+    {
+      "title": "A Gentleman in Moscow",
+      "author": "Amor Towles",
+      "price": 16.99,
+      "genre": "Historical Fiction",
+      "pages": 462
+    },
+    {
+      "title": "The Midnight Library",
+      "author": "Matt Haig",
+      "price": 14.49,
+      "genre": "Fiction",
+      "pages": 304
+    },
+    {
+      "title": "The Invisible Life of Addie LaRue",
+      "author": "V.E. Schwab",
+      "price": 14.99,
+      "genre": "Fantasy",
+      "pages": 448
+    },
+    {
+      "title": "The Seven Husbands of Evelyn Hugo",
+      "author": "Taylor Jenkins Reid",
+      "price": 15.99,
+      "genre": "Historical Fiction",
+      "pages": 400
+    },
+    {
+      "title": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "price": 12.99,
+      "genre": "Romance",
+      "pages": 368
+    },
+    {
+      "title": "Malibu Rising",
+      "author": "Taylor Jenkins Reid",
+      "price": 14.99,
+      "genre": "Historical Fiction",
+      "pages": 368
+    },
+    {
+      "title": "The Guest List",
+      "author": "Lucy Foley",
+      "price": 13.99,
+      "genre": "Thriller",
+      "pages": 368
+    },
+    {
+      "title": "The Testaments",
+      "author": "Margaret Atwood",
+      "price": 16.99,
+      "genre": "Dystopian",
+      "pages": 432
+    }
+  ]

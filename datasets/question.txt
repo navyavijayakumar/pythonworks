@@ -1,0 +1,3 @@
+this is a python program to print hello world
+this python tetxt is very simple
+thi python program count frequency of each word
